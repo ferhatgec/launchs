@@ -1,4 +1,4 @@
-#!/usr/bin/env python3a
+#!/usr/bin/env python3
 # MIT License
 #
 # Copyright (c) 2021 Ferhat Geçdoğan All Rights Reserved.
